@@ -1,0 +1,2 @@
+cd ~/Desktop/samurai
+touch ファイル名
